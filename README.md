@@ -57,4 +57,4 @@ to remember Chinese character with a tree structure.
 ## 九划
 
 
-# PRs are very welcome
+# PRs(Pull-Requests) are very welcome
