@@ -1,7 +1,7 @@
 @startjson
 {
-  "止":{
-    "足":{}
-  }
+   "fruit":"Apple",
+   "size":"Large",
+   "color":"Red"
 }
 @endjson
