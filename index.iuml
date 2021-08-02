@@ -1,7 +1,7 @@
 @startjson
 {
-   "fruit":"Apple",
-   "size":"Large",
-   "color":"Red"
+   "\x6b62" /*止*/:{ 
+       "\x8db3":{}
+   }
 }
 @endjson
