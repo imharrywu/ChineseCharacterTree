@@ -3,6 +3,7 @@
   "<color:blue><b>code": "<color:blue><b>value",
   "a\\u005Cb":           "a\u005Cb",
   "\\uD83D\\uDE10":      "\uD83D\uDE10",
-  "😐":                  "😐"
+  "😐":                  "😐",
+  "止":                  {}
 }
 @endjson
